@@ -12,7 +12,7 @@ const About = () => {
         py: 10
       }}>
         <div align="center">
-          Check out the repository! <a href="https://github.com/haseebshaik00/Sterlingo">GitHub</a>
+          Check out the repository! <a href="https://github.com/haseebshaik00/sterlingo-application">GitHub</a>
         </div>
       </Container>
     </>
