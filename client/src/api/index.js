@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API = axios.create({ baseURL: 'http://localhost:3001'})
+const API = axios.create({ baseURL: 'https://sterlingo-backend.onrender.com'})
 //const API = axios.create({ baseURL: ''})
 
 const profile = JSON.parse(localStorage.getItem('profile'))
